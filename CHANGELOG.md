@@ -12,3 +12,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - README.md
 - .gitignore for osx and GOLang
 - CHANGELOG.md
+
+## Changed
+- README.md updated
