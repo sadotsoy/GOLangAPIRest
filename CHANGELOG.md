@@ -8,17 +8,18 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [0.0.1] - 2017-10-10
 ### Added
-- GITHUB REPO
+- [GITHUB](https://github.com/SadotCorts/GOLangAPIRest) **REPO**
 - [README.md](./README.md)
-- .gitignore for osx and GOLang
-- CHANGELOG.md
-- Changelog link in README
+- [.gitignore](./.gitignore) **for osx and GOLang**
+- [CHANGELOG]() **updated**
+- [CHANGELOG]() **link in README**
 ## Changed
-- [README.md](./README.md) updated
+- [README.md](./README.md) **updated**
 
 ## [0.0.2] - 2017-10-16
 ### Added
-- main.go
+- [main.go](./main.go) **Main code**
 ### Changed
-- CHANGELOG updated
-- .gitignore updated
+- [CHANGELOG]() **updated**
+- [.gitignore](./.gitignore) **updated, ``vim`` gitignore added.**
+- [README.md](./README.md) **updated**
