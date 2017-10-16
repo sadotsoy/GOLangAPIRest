@@ -17,5 +17,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - [README.md](./README.md) updated
 
 ## [0.0.2] - 2017-10-16
+### Added
+- main.go
 ### Changed
 - CHANGELOG updated
+- .gitignore updated
