@@ -37,7 +37,7 @@ func GetNoteHandler(w http.ResponseWriter, r *http.Request) {
 // PostNoteHandler - POST - /api/notes
 func PostNoteHandler(w http.ResponseWriter, r *http.Request) {
 	var note Note
-	err := json.NewDecoder(r.Body).Decode(&note) // Receive the json Ruquest, Decode that into Go object and Decode to the object Note
+	err := json.NewDecoder(r.Body).Decode(&note) // Receive the json Request, Decode that into Go object and Decode to the object Note
 	if err != nil {                              //This should not be in production
 		panic(err)
 	}
