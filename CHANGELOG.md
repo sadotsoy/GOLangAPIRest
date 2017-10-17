@@ -23,3 +23,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - [CHANGELOG]() **updated**
 - [.gitignore](./.gitignore) **updated, ``vim`` gitignore added.**
 - [README.md](./README.md) **updated**
+
+## [0.0.3] - 2017-10-17
+### Changed
+- [main.go](./main.go) **POST, PUT and DELETE Methods added**
+- [CHANGELOG]() **updated**
